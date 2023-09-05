@@ -3,11 +3,11 @@
 <br>
 - 🔭 I'm currently training to become a programmer 💻 to eventually work in web development, specifically in BackEnd development.
 
-- 🌱 I’m currently learning Java ☕ , Javascript and Python 🐍 at university. Also, I'm learning POO, HTML, CSS by myself, self-taught.
+- 🌱 I’m currently learning Java ☕ , Javascript and Python 🐍 at university. Also, I'm learning POO, HTML and CSS by myself, self-taught.
 
 - 📫 How to reach me: **nuneznicolas582@gmail.com**
 
-- ⚡ Fun fact: I don´t like Python 😂
+- ⚡ Fun fact: I don't like Python 😂
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
