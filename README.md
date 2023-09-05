@@ -1,5 +1,5 @@
 <h1 align="center">Helloo 👋, I'm Nicolás Núñez 😃</h1>
-<h3 align="center">I'm a student of Tecnicatura Universitaria en Programación en UTNFRSR.</h3>
+<h3 align="center">I'm a student of Tecnicatura Universitaria en Programación at UTNFRSR.</h3>
 <br>
 - 🔭 I'm currently training to become a programmer 💻 to eventually work in web development, specifically in BackEnd development.
 
