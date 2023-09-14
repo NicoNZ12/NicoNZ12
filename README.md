@@ -1,4 +1,5 @@
 <h1 align="center">Helloo 👋, I'm Nicolás Núñez</h1>
+<h2 align="center">I'm from Argentina 🔵⚪🟡⚪🔵 </h2>
 <h3 align="center">I'm a student of Tecnicatura Universitaria en Programación at UTNFRSR.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconz12&label=Profile%20views&color=007bff&style=plastic" alt="niconz12" /> </p>
 <br>
@@ -22,5 +23,4 @@
 <hr>
 
 <span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=niconz12&show_icons=true&locale=en" alt="niconz12" width="400px"/></span>
-<br><br>
 <span><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=niconz12&theme=default" alt="niconz12" width="407px"/></span>
