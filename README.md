@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning Java ☕ , Javascript and Python 🐍 at university. Also, I'm learning POO, HTML and CSS by myself, self-taught.
 
-- 📫 How to reach me: **nuneznicolas582@gmail.com**
+- 📫 How to reach me: <a href="https://nuneznicolas582@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+  </a>
 
 - ⚡ Fun fact: I don't like Python 😂
 
