@@ -3,15 +3,15 @@
 <h3 align="center">I'm a student of Tecnicatura Universitaria en Programación at UTNFRSR.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconz12&label=Profile%20views&color=007bff&style=plastic" alt="niconz12" /> </p>
 <br>
-- 🔭 I'm currently training to become a programmer 💻 to eventually work in web development, specifically in BackEnd development.
+-- 🔭 I'm currently training to become a programmer 💻 to eventually work in web development, specifically in BackEnd development.
 
-- 🌱 I’m currently learning Java ☕ , Javascript and Python 🐍 at university. Also, I'm learning POO, HTML and CSS by myself, self-taught.
+-- 🌱 I’m currently learning Java ☕ , Javascript and Python 🐍 at university. Also, I'm learning POO, HTML and CSS by myself, self-taught.
 
-- 📫 How to reach me: <a href="https://nuneznicolas582@gmail.com">
+-- 📫 How to reach me: <a href="https://nuneznicolas582@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
   </a>
 
-- ⚡ Fun fact: I don't like Python 😂
+-- ⚡ Fun fact: I don't like Python 😂
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
