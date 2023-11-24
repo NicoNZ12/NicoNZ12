@@ -5,7 +5,7 @@
 <br>
 -- 🔭 I'm currently training to become a programmer 💻 to eventually work in web development, specifically in BackEnd development.
 
--- 🌱 I’m currently learning Java ☕ , Javascript and Python 🐍 at university. Also, I'm learning HTML and CSS by myself, self-taught.
+-- 🌱 I’m currently learning Java ☕ , Javascript and Python 🐍. However, I'm focusing more on learning Java in depth. 
 
 -- 📫 How to reach me: <a href="https://nuneznicolas582@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
