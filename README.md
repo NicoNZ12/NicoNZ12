@@ -7,17 +7,13 @@
 
 -- 🌱 I’m currently learning Java ☕ , Javascript and Python 🐍. However, I'm focusing more on learning Java in depth. 
 
--- 📫 How to reach me: <a href="https://nuneznicolas582@gmail.com">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-  </a>
 
 -- ⚡ Fun fact: I don't like Python 😂
 
 <h3 align="right">Connect with me:</h3>
-<p align="right">
+<p align="right">  
+<a href="https://nuneznicolas582@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/></a>
 <a href="https://github.com/NicoNZ12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="nicoon_" height="30" width="40"/></a>
-<a href="https://twitter.com/nicoon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicoon_" height="30" width="40" /></a>
-<a href="https://instagram.com/nico.nunez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nico.nunez_" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
