@@ -1,6 +1,6 @@
 <h1 align="center">Helloo 👋, I'm Nicolás Núñez</h1>
 <h2 align="center">I'm from Argentina 🔵⚪🟡⚪🔵 </h2>
-<h3 align="center">I'm a student of Tecnicatura Universitaria en Programación at UTNFRSR.</h3>
+<h3 align="center">I'm a University Technician in Programming.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niconz12&label=Profile%20views&color=007bff&style=plastic" alt="niconz12" /> </p>
 <br>
 I've been studying programming for 2 years, and I really enjoy web development. I'm diving deeper into React for the frontend and Spring for the backend, with a strong affinity for Java. I'm shaping myself as a full stack developer, though my main interest lies in the backend.
